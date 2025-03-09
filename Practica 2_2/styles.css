@@ -1,0 +1,40 @@
+
+nav {
+background-color: #09ff00; /* Color de fondo del menú */
+padding: 10px;
+text-align: center;
+}
+
+nav a {
+margin: 0 15px; /* Espaciado entre enlaces */
+font-size: 18px;
+font-weight: bold;
+}
+
+nav a:hover {
+    color: #1222d5; /* Color al pasar el mouse */
+}
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 20px; 
+} 
+nav a { 
+    margin-right: 15px; 
+    text-decoration: none; 
+    color:  #2980B9; 
+} 
+section { 
+    margin-bottom: 40px; 
+} 
+
+header, section{
+    margin-bottom: 20px;
+}
+
+h1,h2{
+    color: #2C3E50;
+}
+
+.subtitulo{
+    color: #2980b9;
+}
